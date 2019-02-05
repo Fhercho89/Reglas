@@ -1,0 +1,99 @@
+--Reglas Generales--
+
+*No molestar jugadores sin razon alguna, o sin rol previo.
+*Nada de spam.
+*Nada de pedir Superadmin/Admin/Moderador (en general cualquier miembro del staff).
+*Nada de pedir cosas OTAKUS.
+*Nada de publicidad de otros servidores (en caso de publicitar este servidor, hablar con ADMINS primero).
+*Reportar BUGS en discord oficial (https://discord.gg/6yzSscW).
+*En caso de recomendaciones para agregar addons, scripts, etc usar el Discord oficial en su respectivo canal.
+*Nada de MG (Meta Gaming).
+*Respetar NLR (New Life Rule).
+*Nada de Prop Killing (igual esta deshabilitado we).
+*Nada de Prop Surf.
+*Nada de Prop Climbing (A menos que sean escaleras que puedan subirse).
+*Nada de RDM (Random Deathmatch).
+*Nada de Ghosting.
+*Nada de Self Supply.
+*Nada de seguir gente, acosar, molestar (fuera de rol)
+*Nada de random demote (sacarle el Job a alguien sin razon)
+
+*MAS REGLAS EN PROCESO*
+
+--Reglas de construccion--
+
+*No bunkering
+*No one way
+*En caso de hacer "cajas" siempre tener FADING DOOR
+*En caso de tapar puertas con props deben ser FADING DOOR
+*No se permiten casas o bases o depositos o cualquier tipo de construccion aerea que genere cierta ventaja.
+*No FDA (Fading Door Abuse).
+*MAS REGLAS EN PROCESO*
+
+--Reglas de Raideo / Robo--
+*Las clases que puedan robar/secuestrar, deben avisar.
+*las clases que secuestren, deben ser dentro de estructuras creadas por el secuestrador o compañeros.
+*Si el rehen lucha mucho por su vida, tienes permitido matarlo, pero si alguien te ve o te escucha, preocupate por esconderte.
+*Si el secuestrado logra agarrar un arma de cualquier tipo en la casa o lugar donde esta siendo secuestrado, puede matar al secuestrador. siempre y cuando sea dentro de ROL.
+*
+
+
+--Reglas de TRABAJOS--
+|||||||||
+*MILICO*:
+*No matar compañeros.
+*No se puede tener base. (utilizar comisaria)
+*No revisar sin razon.
+*No requisar sin razon.
+*No pueden tener printers DE NINGUNA MANERA.
+*No chat de radio para hablar OOC
+*Pueden aceptar coimas. (Argentina papa)
+|||||||||
+*CHORRO*
+*No se puede robar a la misma persona hasta luego de 15 minutos.
+*No puede vivir con: Medicos, Gobierno en general y vendedores de cualquier tipo.
+*Podes raidear o muggear junto con otro criminal. exceptuando el mercado negro. tampoco es posible.
+*Nada de robar sin rol previo (aviso) ya sea una persona o casa.
+*Proximamente: Robar vehiculos con rol previo si o si.
+*No se puede contratar un guardia de seguridad para robar junto a vos. (usar mercenario)
+|||||||||
+*VENDEDORES GENERAL*:
+*Nada de Self Supply.
+*Solo podes vender junto a otros vendedores de armas, etc, o un seguridad (en caso de ser un vendedor LEGAL) en caso de ILEGAL usar Mercenario.
+*Para conseguir armas, tendras que comprarsela a otro vendedor, o jugador con armas pero esto seria ilegal ante la policia a menos que tenga licencia.
+*No bunkering dentro de tu tienda.
+*Pedir licencia para compra y venta de armas, en caso de no hacerlo, sera venta de armas ilegales.
+|||||||||
+*GRANJERO*:
+*Pueden plantar en interiores/exteriores.
+*Pueden mandar a alguien a que les venda la caja con verduras EXCEPTO: Jobs ilegales.
+|||||||||
+*GUARDIA CIVIL*:
+*No puede tener casa. (Su hogar es donde el contratado).
+*No puede participar en robos/Secuestros.
+*Puede defender casas.
+*Puede printear en hogar del contratado (con permisos del dueño)
+|||||||||
+*BANQUERO*:
+*No puede tener printers personales.
+*No puede participar en robos/secuestros.
+*No puede contratar mercenarios para defender.
+*Puede contratar guardia civil para defender.
+|||||||||
+*VAGABUNDO*:
+*No puede tener casa.
+*No pueden recibir sueldo.
+*Pueden construir en vía publica (sin estorbar).
+*Solo puede usar cuchillos y pistolas de DAÑO BAJO (Ilegales).
+*Puede crear villas.
+|||||||||
+*MEDICO*:
+*No puede hacer base con CRIMINALES.
+*No puede raidear ni robar.
+*Puede ir hacia donde esta el herido a curar libremente.
+*Solo puede vivir junto a otros Medicos.
+|||||||||
+*NARCO*:
+*No pueden hacer self supply.
+*No pueden participar en Robos/Raids.
+--
