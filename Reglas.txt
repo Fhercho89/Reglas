@@ -1,4 +1,4 @@
---Reglas Generales--
+-----Reglas Generales-----
 
 *No molestar jugadores sin razon alguna, o sin rol previo.
 *Nada de spam.
@@ -17,10 +17,14 @@
 *Nada de Self Supply.
 *Nada de seguir gente, acosar, molestar (fuera de rol)
 *Nada de random demote (sacarle el Job a alguien sin razon)
-
+*No se puede disparar con Sniper dentro del BANCO.
 *MAS REGLAS EN PROCESO*
-
---Reglas de construccion--
+*Nada de Bait Buy (Poner precio a una entidad en cualquier parte del mapa random).
+*Se puede insultar dentro de rol.
+*Nada de insultar FUERA de rol (OOC).
+*No mic spam. (A menos que hayas pedido jugando con un admin para bolduear y asi).
+*
+-----Reglas de construccion-----
 
 *No bunkering
 *No one way
@@ -28,9 +32,13 @@
 *En caso de tapar puertas con props deben ser FADING DOOR
 *No se permiten casas o bases o depositos o cualquier tipo de construccion aerea que genere cierta ventaja.
 *No FDA (Fading Door Abuse).
+*Las fading door que sean PUERTA, tienen que ser para DOS personas.
+*Cantidad Maxima de Fading doors: 3 (se puede ajustar...)
+*
+
 *MAS REGLAS EN PROCESO*
 
---Reglas de Raideo / Robo--
+-----Reglas de Raideo / Robo-----
 *Las clases que puedan robar/secuestrar, deben avisar.
 *las clases que secuestren, deben ser dentro de estructuras creadas por el secuestrador o compañeros.
 *Si el rehen lucha mucho por su vida, tienes permitido matarlo, pero si alguien te ve o te escucha, preocupate por esconderte.
@@ -38,9 +46,9 @@
 *
 
 
---Reglas de TRABAJOS--
+-----Reglas de TRABAJOS-----
 |||||||||
-*MILICO*:
+*MILICO /GEOF/ *:
 *No matar compañeros.
 *No se puede tener base. (utilizar comisaria)
 *No revisar sin razon.
@@ -48,6 +56,8 @@
 *No pueden tener printers DE NINGUNA MANERA.
 *No chat de radio para hablar OOC
 *Pueden aceptar coimas. (Argentina papa)
+*Puerta principal de comisaria ABIERTA
+
 |||||||||
 *CHORRO*
 *No se puede robar a la misma persona hasta luego de 15 minutos.
@@ -56,6 +66,8 @@
 *Nada de robar sin rol previo (aviso) ya sea una persona o casa.
 *Proximamente: Robar vehiculos con rol previo si o si.
 *No se puede contratar un guardia de seguridad para robar junto a vos. (usar mercenario)
+*Cantidad de ladrones por Robo: MINIMO 1 - MAXIMO 4
+*
 |||||||||
 *VENDEDORES GENERAL*:
 *Nada de Self Supply.
@@ -92,8 +104,10 @@
 *No puede raidear ni robar.
 *Puede ir hacia donde esta el herido a curar libremente.
 *Solo puede vivir junto a otros Medicos.
+*El medico puede vender chalecos (A los Milicos, GEOF, cualquier fuerza policial, vender mas barato que a los demas).
 |||||||||
 *NARCO*:
 *No pueden hacer self supply.
 *No pueden participar en Robos/Raids.
--------MAS LUEGO---------
+
+-----LUEGO MAS REGLAS-----
